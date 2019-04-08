@@ -18,7 +18,7 @@ $current_url = $appinfo_json['uris'][0];
       ?>
 <body>
     <canvas id="canvas" class="offScreen"></canvas>
-    <div id="dialog-form" title="Create Labyrinth">
+    <div id="dialog-form" title="Create Hansolo">
         <form>
             <fieldset>
                 <label for="name">Password:</label>
